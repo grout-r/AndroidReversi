@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reversi</string>
+    <string name="exit">Exit</string>
+    <string name="reset">Reset</string>
+    <string name="bscore">Black score : </string>
+    <string name="wscore">White score : </string>
+    <string name="win_disclaimer">"Game is finished ! The winner is :%s"</string>
+    <string name="turn">%s plays</string>
+</resources>
